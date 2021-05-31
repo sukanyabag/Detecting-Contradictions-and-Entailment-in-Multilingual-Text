@@ -1,2 +1,1 @@
-# Kaggle-Competitions-Notebooks
-This repo contains my code of various kaggle competitions.
+The task is to create an NLI model that assigns labels of 0, 1, or 2 (corresponding to entailment, neutral, and contradiction) to pairs of premises and hypotheses. To make things more interesting, the train and test set include text in fifteen different languages! 
